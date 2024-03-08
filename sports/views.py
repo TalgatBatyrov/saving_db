@@ -7,4 +7,4 @@ from django.http import HttpResponse
 
 def indexSport(request):
     print('fdfd')
-    return HttpResponse("Hello World Sports")
+    return HttpResponse("Hello World Sportsdsds")
